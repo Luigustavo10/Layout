@@ -58,7 +58,7 @@ h1{
   margin-left: 23px;
   position: absolute;
   justify-content: space-between;
-display: flex;
+  display: flex;
 }
 
 .vertical{
@@ -96,6 +96,4 @@ position: relative;
   display: flex;
   margin-left: 700px;
   margin-top: 8px;
-
-
 }
